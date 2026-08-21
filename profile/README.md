@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shukka-app/shukka/main/public/favicon.svg" width="72" height="72" alt="Shukka">
+  <img src="og.png" alt="Shukka — self-hosted updates for Electron and Tauri">
 </p>
 
-<h1 align="center">Shukka</h1>
-
 <p align="center">
-  <strong>Self-hosted updates for Electron and Tauri.</strong><br>
   Your bucket. Your feed. Your panel.
 </p>
 
